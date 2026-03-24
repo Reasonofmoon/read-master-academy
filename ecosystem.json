@@ -1,0 +1,48 @@
+{
+  "ecosystem": "ReadMaster Education Group",
+  "version": "1.0.0",
+  "updated": "2026-03-24",
+  "sites": {
+    "hq": {
+      "name": "ReadMaster HQ",
+      "shortName": "HQ",
+      "url": "https://readmaster-hq.vercel.app",
+      "repo": "https://github.com/Reasonofmoon/readmaster-hq",
+      "icon": "🎯",
+      "description": "프랜차이즈 본부 · 에이전트 관리",
+      "tech": "Static HTML + GAS"
+    },
+    "franchise": {
+      "name": "ReadMaster 프랜차이즈",
+      "shortName": "프랜차이즈",
+      "url": "https://readmaster-franchise.vercel.app",
+      "repo": "https://github.com/Reasonofmoon/readmaster-franchise",
+      "icon": "🌐",
+      "description": "프랜차이즈 공개 랜딩 페이지",
+      "tech": "Static HTML"
+    },
+    "academy": {
+      "name": "Read Master Academy",
+      "shortName": "아카데미",
+      "url": "https://read-master-academy.vercel.app",
+      "repo": "https://github.com/Reasonofmoon/read-master-academy",
+      "icon": "📚",
+      "description": "부천 옥길동 본점 공식 사이트",
+      "tech": "Next.js 16"
+    },
+    "oet": {
+      "name": "OET Korea",
+      "shortName": "OET",
+      "url": "https://oet-korea.com",
+      "repo": "https://github.com/Reasonofmoon/oet-korea",
+      "icon": "🏥",
+      "description": "의료 영어 시험 대비 플랫폼",
+      "tech": "Next.js 16 + Firebase"
+    }
+  },
+  "contact": {
+    "dante": "010-8460-1764",
+    "baekmin": "010-9595-3225",
+    "email": "readmaster@academy.kr"
+  }
+}
